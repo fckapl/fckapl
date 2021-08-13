@@ -1,4 +1,4 @@
-### Moin, 👋
+## Moin,
 
 Apple hat seine Pläne konkretisiert das CSAM in iOS15 einzuführen. Ein automatisiertes Meldesysten in 3 verschiedene Stufen um gegen Kinderpornografie vorzugehen, bzw. Meldungen an Behörden und Institutionen weiterzuleiten.
 
@@ -6,7 +6,7 @@ Welche Auswirkungen das hat ist vielleicht nicht jedem klar, aber einen guten Ei
 
 Nachdem Apple bereit 2020 es abgelehnt hat die [Backups zu verschlüsseln](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive-idUSKBN1ZK1CT9) ist das die nächste Mauer, die eingerissen wird.
 
-Hier werden nach und nach Ideen gesammelt wie man in seinem eigenen Umfeld dieses weitgehendst beenden kann.  
+Hier werden nach und nach Ideen gesammelt wie man in seinem eigenen Umfeld dieses einschränken/verhindern kann.  
 
 
 
