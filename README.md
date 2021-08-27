@@ -8,10 +8,10 @@ Getting rid of Google & their services is the aim of this short walk-thru.
 
 Sure, there is a  a small learning curve, but it's worth.
 
-1. Get an appropiate Android phone. If you want to know which phones are supported with Android 11 goto [LineageOS](https://wiki.lineageos.org/devices/) and look for devices which have 18.1 builds. Respectively LineageOS 17.1 is measn Android 10. Generally speaking: the OnePlus and Google Pixel Models are well suited. In this case i take a Pixel 4a.
-2. Got to the [device page](https://wiki.lineageos.org/devices/sunfish) for the Pixel 4a, codename sunfish . Read it carefully.
+1. Get an appropiate Android phone. If you want to know which phones are supported with Android 11 goto [LineageOS](https://wiki.lineageos.org/devices/) and look for devices which have 18.1 builds. Respectively LineageOS 17.1 is means Android 10. Generally speaking: the OnePlus and Google Pixel Models are well suited. In this case i take a Pixel 4a.
+2. Got to the [device page](https://wiki.lineageos.org/devices/sunfish) for the Pixel 4a, codename sunfish. Read it carefully.
 3. STOP. Down't download here. Prepare your Linux/Mac/Win Machine with the android platform tools.
-4. In fact that some apps (e.g. banking) need google services we have to install [MicroG](https://microg.org), it's a free implementation of Google Services. 
+4. In fact that some apps (e.g. banking) need google services you have to install [MicroG](https://microg.org), it's a free implementation of Google Services. 
 5. You can do it after the lineage install, but that's a pain in the ass, or i'm too old.
 6. Luckily they offer [lineage ROMs](https://lineage.microg.org/) with compiled-in MicroG. Get the latest. Check the SHA256.
 7. Get a recovery image from the lineageOS site with a release date before the image from the microG site.
