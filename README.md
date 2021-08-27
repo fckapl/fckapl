@@ -1,15 +1,42 @@
-## Moin,
+#### Getting rid of Apple & Google - 10 steps towards digital freedom
 
-Apple hat seine Pläne konkretisiert das CSAM in iOS15 einzuführen. Ein automatisiertes Meldesysten in 3 verschiedene Stufen um gegen Kinderpornografie vorzugehen, bzw. Meldungen an Behörden und Institutionen weiterzuleiten.
+Due to Apples plans integrating CSAM in ther device starting with iOS15 generally, there is need for an alternative.
 
-Welche Auswirkungen das hat ist vielleicht nicht jedem klar, aber einen guten Einblick gibt es als Podcast von der [Heise Show](https://main.podigee-cdn.net/media/podcast_27459_heiseshow_audio_episode_520262_kindesmissbrauch_scanning_auf_iphones_warum_das_so_gefahrlich_ist_heiseshow.mp3). Und wer mag auch im Podcastmonetarisierungsgefängnis [Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
+Android phones usually need the Google apps for full functionality and nearly all manufacturers & telcos preinstall them.
 
-Nachdem Apple bereit 2020 es abgelehnt hat die [Backups zu verschlüsseln](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive-idUSKBN1ZK1CT9) ist das die nächste Mauer, die eingerissen wird.
+Getting rid of Google & their services is the aim of this short walk-thru.
 
-Hier werden nach und nach Ideen gesammelt wie man in seinem eigenen Umfeld dieses einschränken/verhindern kann.  
+Sure, there is a  a small learning curve, but it's worth.
 
+1. Get an appropiate Android phone. If you want to know which phones are supported with Android 11 goto [LineageOS](https://wiki.lineageos.org/devices/) and look for devices which have 18.1 builds. Respectively LineageOS 17.1 is measn Android 10. Generally speaking: the OnePlus and Google Pixel Models are well suited. In this case i take a Pixel 4a.
+2. Got to the [device page](https://wiki.lineageos.org/devices/sunfish) for the Pixel 4a, codename sunfish . Read it carefully.
+3. STOP. Down't download here. Prepare your Linux/Mac/Win Machine with the android platform tools.
+4. In fact that some apps (e.g. banking) need google services we have to install [MicroG](https://microg.org], it's a free implementation of Google Services. 
+5. You can do it after the lineage install, but that's a pain in the ass, or i'm too old.
+6. Luckily they offer [lineage ROMs](https://lineage.microg.org/) with compiled-in MicroG. Get the latest. Check the SHA256.
+7. Get a recovery image from the lineageOS site with a release date before the image from the microG site.
+8. Do your job like described on the lineageOS site. Instead of taking the official ROM, take the microG Version.
+9. After a reboot you have just a plain android phone.
+ 
+Ok, at this point you recognize: I can't use the Google playstore. But: There are a lot of Appstores out there,
 
+10. Go to [F-Droid](https://f-droid.org) store and load the app. F-Droid hat 'only' full OSS licensed apps. Start the App and load "Aurora", that's a store which uses The Google 
+playstore as the backend. First you have to decide whether you want to buy or being anonymous. After that you have the full functionality of the playstore, except that you can't buy anything in anonymous mode.
 
+If you want push notifications you must first register with google in the MicroG Settings, and AFTERWARDS install the apps.
+But: Life is easier without push notifications. Check it out.
+
+Some interesting Apps:
+
+* Podcasts: Pocket Cast
+* Ebook Reader: FB Reader
+* Navigation: Magic Earth
+* Google Autheticator for 2FA
+* Browsing: integrated or Brave
+* Need for an Exchange-Account? Gmail, yes, it has no strings attached to Google
+* The ususal Spotify, Element.io, THreema, Telegram, Signal stuff.jo
+
+Get a Nextcloud instance and the client for your backups.
 
 
 
