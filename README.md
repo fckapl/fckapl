@@ -11,17 +11,16 @@ Sure, there is a  a small learning curve, but it's worth.
 1. Get an appropiate Android phone. If you want to know which phones are supported with Android 11 goto [LineageOS](https://wiki.lineageos.org/devices/) and look for devices which have 18.1 builds. Respectively LineageOS 17.1 is measn Android 10. Generally speaking: the OnePlus and Google Pixel Models are well suited. In this case i take a Pixel 4a.
 2. Got to the [device page](https://wiki.lineageos.org/devices/sunfish) for the Pixel 4a, codename sunfish . Read it carefully.
 3. STOP. Down't download here. Prepare your Linux/Mac/Win Machine with the android platform tools.
-4. In fact that some apps (e.g. banking) need google services we have to install [MicroG](https://microg.org], it's a free implementation of Google Services. 
+4. In fact that some apps (e.g. banking) need google services we have to install [MicroG](https://microg.org), it's a free implementation of Google Services. 
 5. You can do it after the lineage install, but that's a pain in the ass, or i'm too old.
 6. Luckily they offer [lineage ROMs](https://lineage.microg.org/) with compiled-in MicroG. Get the latest. Check the SHA256.
 7. Get a recovery image from the lineageOS site with a release date before the image from the microG site.
 8. Do your job like described on the lineageOS site. Instead of taking the official ROM, take the microG Version.
 9. After a reboot you have just a plain android phone.
  
-Ok, at this point you recognize: I can't use the Google playstore. But: There are a lot of Appstores out there,
+Ok, at this point you recognize: I can't use the Google playstore. But: There are a lot of Appstores out there.
 
-10. Go to [F-Droid](https://f-droid.org) store and load the app. F-Droid hat 'only' full OSS licensed apps. Start the App and load "Aurora", that's a store which uses The Google 
-playstore as the backend. First you have to decide whether you want to buy or being anonymous. After that you have the full functionality of the playstore, except that you can't buy anything in anonymous mode.
+10. Go to [F-Droid](https://f-droid.org) store and load the app. F-Droid hat 'only' full OSS licensed apps. Start the App and load "Aurora", that's a store which uses The Google playstore as the backend. First you have to decide whether you want to buy or being anonymous. After that you have the full functionality of the playstore, except that you can't buy anything if you choose anonymous mode.
 
 If you want push notifications you must first register with google in the MicroG Settings, and AFTERWARDS install the apps.
 But: Life is easier without push notifications. Check it out.
@@ -34,10 +33,11 @@ Some interesting Apps:
 * Google Autheticator for 2FA
 * Browsing: integrated or Brave
 * Need for an Exchange-Account? Gmail, yes, it has no strings attached to Google
-* The ususal Spotify, Element.io, THreema, Telegram, Signal stuff.jo
+* The ususal Spotify, Element.io, THreema, Telegram, Signal stuff
 
 Get a Nextcloud instance and the client for your backups.
 
+Typos here are your problem. Enjoy.
 
 
 <!--
