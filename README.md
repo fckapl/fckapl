@@ -1,6 +1,6 @@
 #### Getting rid of Apple & Google - 10 steps towards digital freedom
 
-Due to Apples plans integrating CSAM in ther device starting with iOS15 generally, there is need for an alternative.
+Due to Apples plans integrating CSAM in thier devices starting with iOS15 generally, there is need for an alternative.
 
 Android phones usually need the Google apps for full functionality and nearly all manufacturers & telcos preinstall them.
 
@@ -20,7 +20,7 @@ Sure, there is a  a small learning curve, but it's worth.
  
 Ok, at this point you recognize: I can't use the Google playstore. But: There are a lot of Appstores out there.
 
-10. Go to [F-Droid](https://f-droid.org) store and load the app. F-Droid hat 'only' full OSS licensed apps. Start the App and load "Aurora", that's a store which uses The Google playstore as the backend. First you have to decide whether you want to buy or being anonymous. After that you have the full functionality of the playstore, except that you can't buy anything if you choose anonymous mode.
+10. Go to [F-Droid](https://f-droid.org) store and load the app. F-Droid has 'only' full OSS licensed apps. Start the App and load "Aurora", that's a store which uses the Google playstore as the backend. First you have to decide whether you want to buy or being anonymous. After that you have the full functionality of the playstore, except that you can't buy anything if you choose anonymous mode.
 
 If you want push notifications you must first register with google in the MicroG Settings, and AFTERWARDS install the apps.
 But: Life is easier without push notifications. Check it out.
@@ -30,14 +30,14 @@ Some interesting Apps:
 * Podcasts: Pocket Cast
 * Ebook Reader: FB Reader
 * Navigation: Magic Earth
-* Google Autheticator for 2FA
-* Browsing: integrated or Brave
-* Need for an Exchange-Account? Gmail, yes, it has no strings attached to Google
-* The ususal Spotify, Element.io, THreema, Telegram, Signal stuff
+* Google Authenticator for 2FA
+* Browsing: Integrated or Brave
+* Need for an Exchange-Account? Gmail, yes from the Aurora store, it has no strings attached to Google
+* The ususal Spotify, Element.io, Threema, Telegram, Signal stuff
+* You're coming from iOS? Checkout the iOS15 launcher
+* The default camera app of Lineage is.. default. Nothing special. For Google Pixel models [there is an optimized camera app](https://www.celsoazevedo.com/files/android/google-camera/f/changelog1330/) with all the features of the original camera module, including RAW images.
 
-Get a Nextcloud instance and the client for your backups.
-
-Typos here are your problem. Enjoy.
+Enjoy.
 
 
 <!--
